@@ -42,8 +42,8 @@ pip install speechrecognition pyttsx3 pywhatkit wikipedia requests beautifulsoup
 ## How to Use
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
-   cd <repository-folder>
+   git clone https://github.com/JovinPaul-J/Virtual_Assistant_Nova.git
+   cd Virtual_Assistant_Nova
    ```
 
 2. Run the Python script:
