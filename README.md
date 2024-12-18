@@ -48,7 +48,7 @@ pip install speechrecognition pyttsx3 pywhatkit wikipedia requests beautifulsoup
 
 2. Run the Python script:
    ```bash
-   python assistant.py
+   python main.py
    ```
 
 3. Activate Nova: Say "Wake up" to initialize Nova, and start interacting using voice commands.
@@ -86,14 +86,7 @@ Here is a list of sample commands Nova can handle:
 ### Shutdown
 - "Sleep"
 - "Turn off"
-
-## Project Structure
-```
-.
-|-- assistant.py  # Main script for the virtual assistant
-|-- virtual_assistant.txt  # File for storing notes (created dynamically)
-```
-
+  
 ## Future Improvements
 - Enhance error handling for smoother user experience.
 - Add support for additional languages.
