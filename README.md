@@ -1,7 +1,7 @@
 # Virtual Assistant (Nova)
 
 ## Overview
-Nova is a Python-based virtual assistant project developed during the transition between school and college in May 2023. This assistant can perform a variety of tasks, including interacting with users through voice commands, fetching information from the internet, managing basic system operations, and more.
+Nova is a Python-based virtual assistant project developed during the transition in May 2023. This assistant can perform a variety of tasks, including interacting with users through voice commands, fetching information from the internet, managing basic system operations, and more.
 
 ## Features
 - **Greeting**: Welcomes the user based on the time of day.
